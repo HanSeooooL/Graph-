@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		A439D12129D54A7400BEB8F7 /* Graph 연습 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Graph 연습"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A439D12429D54A7400BEB8F7 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		A439D12D29D5555E00BEB8F7 /* Graph.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Graph.h; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 		A439D12329D54A7400BEB8F7 /* Graph 연습 */ = {
 			isa = PBXGroup;
 			children = (
+				A439D12D29D5555E00BEB8F7 /* Graph.h */,
 				A439D12429D54A7400BEB8F7 /* main.c */,
 			);
 			path = "Graph 연습";
